@@ -1,0 +1,16 @@
+{
+  "gitbook": "3.2.0",
+  "structure": {
+      "summary": "SUMMARY.md"
+  },
+  "plugins": ["prism", "-highlight", "tasklist", "toggle-chapters"],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/9dots/get-coding-curricula"
+    }
+  },
+  "pdf": {
+    "paperSize": "letter",
+    "paperLayout": "landscape"
+  }
+}

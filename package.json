@@ -1,0 +1,27 @@
+{
+  "name": "tech-and-tape-curricula",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "make workbooks; git commit -am \"built workbooks\"; npm version patch;",
+    "postversion": "git push && git push --tags"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9dots/tech-and-tape-curricula.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9dots/tech-and-tape-curricula/issues"
+  },
+  "homepage": "https://github.com/9dots/tech-and-tape-curricula#readme",
+  "dependencies": {
+    "gitbook-plugin-highlight": "^2.0.2",
+    "gitbook-plugin-prism": "^1.1.0",
+    "gitbook-plugin-tasklist": "^0.4.1",
+    "gitbook-plugin-toggle-chapters": "0.0.3"
+  }
+}

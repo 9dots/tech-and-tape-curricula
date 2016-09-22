@@ -1,0 +1,42 @@
+.page-title-text {
+  margin: 0;
+  margin-bottom: 10px !important;
+}
+.page-title {
+  flex-direction: column;
+  justify-content: center;
+  min-height: 330px;
+}
+span.token {
+  font-family: Consolas,"Liberation Mono",Menlo,Courier,monospace;
+}
+.page-subtitle-text {
+  margin-top: 0px !important;
+}
+.markdown-section img {
+  margin-top: 1em;
+}
+.icon.explain {
+  background-image: url('../images/explain.png')
+}
+.icon.eyes {
+  background-image: url('../images/eyes.png')
+}
+.icon.objectives {
+  background-image: url('../images/objectives.png')
+}
+.icon.agenda {
+  background-image: url('../images/agenda.png');
+}
+.icon.vocab {
+  background-image: url('../images/vocab.png');
+}
+.icon.materials {
+  background-image: url('../images/materials.png');
+}
+.icon.standards {
+  background-image: url('../images/standards.png');
+}
+.icon.activity {
+  background-image: url('../images/activity.png');
+}

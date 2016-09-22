@@ -1,0 +1,197 @@
+@page {
+  size: landscape !important;
+}
+h2 {
+  page-break-before: always !important;
+}
+.section-header {
+  page-break-before: always !important;
+}
+* {
+  font-family: 'Futura', sans-serif;
+}
+hr {
+  width: 100% !important;
+  height: 1px !important;
+  border: none !important;
+}
+table.action-table {
+  width: 100% !important;
+  page-break-before: avoid !important;
+  page-break-inside: auto !important;
+}
+tbody {
+  width: 100% !important;
+}
+tr {
+  width: 100% !important;
+}
+.action-table td {
+  width: 50% !important;
+  max-width: 0 !important;
+  vertical-align: baseline !important;
+}
+@page pagetitle {
+  margin: 0
+}
+.page-title {
+  width: 100%;
+  align-items: center;
+  height: 98%;
+  background: #FFA5AB;
+  font-size: 40px;
+}
+.page-title-text {
+  font-size: 40px !important;
+  position: absolute;
+  bottom: 20%;
+  color: #FFF;
+  text-align: center;
+  width: 100%;
+}
+.page-subtitle-text {
+  font-size: 28px !important;
+  position: absolute;
+  bottom: 18%;
+  color: #666;
+  text-align: center;
+  width: 100%;
+}
+.overview-section {
+  display: block;
+  margin-top: 1em;
+}
+.overview-section .title {
+  font-size: 18pt;
+  text-transform: uppercase;
+  font-weight: 700;
+  display: inline-block;
+  vertical-align: middle;
+}
+.overview-section .icon {
+  height: 30pt;
+  width: 30pt;
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 15pt;
+  background-size: 30pt;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.markdown-section p {
+  margin-bottom: 0;
+}
+.section-header {
+  width: 100%;
+  text-align: center;
+  position: relative;
+}
+.section-header .icon {
+  height: 40pt;
+  width: 40pt;
+  margin: 0 auto;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.section-header .title {
+  font-size: 22pt;
+  margin-bottom: 1em;
+  margin-top: 0.5em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.length-wrapper {
+  margin-bottom: 1em;
+}
+.length-wrapper .icon {
+  display: inline-block;
+  margin-right: 10px;
+  background-size: contain;
+  height: 35px;
+  width: 35px;
+  vertical-align: middle;
+}
+.length-wrapper .text {
+  display: inline-block;
+  font-size: 18px;
+  vertical-align: middle;
+}
+.icon.objectives {
+  background-image: url('../images/objectives.png')
+}
+.icon.agenda {
+  background-image: url('../images/agenda.png');
+}
+.icon.vocab {
+  background-image: url('../images/vocab.png');
+}
+.icon.materials {
+  background-image: url('../images/materials.png');
+}
+.icon.standards {
+  background-image: url('../images/standards.png');
+}
+.icon.activity {
+  background-image: url('../images/activity.png');
+}
+.icon.explain {
+  background-image: url('../images/explain.png')
+}
+.icon.eyes {
+  background-image: url('../images/eyes.png')
+}
+.action-table .second {
+  background: #FEF9F0;
+}
+.action-table td {
+  background: #FFF;
+  border: 0 !important;
+}
+.action-table th {
+  border: 0 !important;
+}
+table.action-table {
+	counter-reset: rowNumber; /* Initiate a counter */
+	margin-left:0; /* Remove the default left margin */
+	padding-left:0; /* Remove the default left padding */
+  color: #6B6178;
+  margin-bottom: 5em;
+  margin-top: 2em;
+}
+.action-table tbody tr {
+	position:relative; /* Create a positioning context */
+	margin:0 0 12px 2em; /* Give each list item a left margin to make room for the numbers */
+	padding:4px 8px; /* Add some spacing around the content */
+	list-style:none; /* Disable the normal item numbering */
+  counter-increment: rowNumber;
+}
+.action-table tr td .number {
+	content:counter(rowNumber); /* Use the counter as content */
+	/* Position and style the number */
+  display: inline-block;
+  margin-top: 10px;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+  border-radius: 2em;
+	width: 1.8em;
+	/* Some space between the number and the content in browsers that support
+	   generated content but not positioning it (Camino 2 is one example) */
+	margin-right:8px;
+	padding:4px;
+	color:#4D425D;
+	background:#F7B8B1;
+	font-weight: bold;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	text-align: center;
+}
+.action-table tr td .content {
+  margin-left: 3.2em;
+  position: relative;
+  top: -20px;
+}
+.markdown-section hr {
+  height: 1px;
+  border: none;
+}
