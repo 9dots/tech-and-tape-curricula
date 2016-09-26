@@ -1,5 +1,8 @@
 # Tech and Tape
 
+![Tech & Tape](../../images/circuits.jpg)
+
+
 Tech & Tape is an initiative of DIY Girls and 9 Dots. We make it easy for educators to teach STEM by providing clear curriculum, personalized training, and a sense of community.
 <br spacing="1"></br>
 
