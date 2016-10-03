@@ -18,3 +18,15 @@ Robotics combines engineering and programming to create machines that are capabl
 ### Workbook
 
 [Download](workbook.pdf)
+
+### Suggested classroom protocol
+
+[Download](classroom-protocol.pdf)
+
+### Running programs on the EV3 tutorial
+
+[Download](download-instructions.pdf)
+
+### EV3 software
+
+[Link to download](http://www.lego.com/en-us/mindstorms/downloads/download-software)
