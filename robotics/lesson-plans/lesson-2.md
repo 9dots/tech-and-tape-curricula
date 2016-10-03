@@ -6,6 +6,8 @@
 
 This lesson serves as an introduction to programming using the EV3 software (this is useable with the older NXT bricks as well). Students have their first programming challenge to guide their teacher through a maze using programming instructions.
 
+##### [Download Lesson](../lessonPDFs/move block.pdf)
+
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 

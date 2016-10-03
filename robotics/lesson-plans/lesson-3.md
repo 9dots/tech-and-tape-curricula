@@ -6,6 +6,8 @@
 
 Students continue learning about simple and complex behaviors by programming their Mindstorm robots. Start by teaching how to program in the EV3 environment and download programs to the robot for testing. Students demonstrate learning by giving their robots commands to navigate a maze.
 
+##### [Download Lesson](../lessonPDFs/move block computer.pdf)
+
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 

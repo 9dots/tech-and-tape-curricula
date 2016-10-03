@@ -6,6 +6,8 @@
 
 Students will be able to use the design thinking method to creatively design their sumo robots.
 
+##### [Download Lesson](../lessonPDFs/design thinking.pdf)
+
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 

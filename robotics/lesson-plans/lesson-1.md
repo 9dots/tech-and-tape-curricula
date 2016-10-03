@@ -6,6 +6,8 @@
 
 Students learn about robotics through watching videos and group discussion. For this lesson, stduents build the EV3 educator model using their Lego Mindstorm kits.
 
+##### [Download Lesson](../lessonPDFs/build and prep.pdf)
+
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 
@@ -35,8 +37,6 @@ Students will be able to:
 {% endlength %}
 
 Students learn about the robotics field and explore cool things robots can do.
-
-**Prep:**
 
 {% table %}
 

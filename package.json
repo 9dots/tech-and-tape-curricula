@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "make workbooks; git commit -am \"built workbooks\"; npm version patch;",
+    "release": "make teacherbooks; make workbooks; git commit -am \"built workbooks\"; npm version patch;",
     "postversion": "git push && git push --tags"
   },
   "repository": {
