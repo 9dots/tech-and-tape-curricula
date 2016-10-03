@@ -101,7 +101,7 @@ Student build their robots using the LEGO EV3 Educator Model instructions
 
 {% table %}
 
-1) Give students 10 minutes to organize their building materials.
+1) Tell students that the first step is to organize their building materials.
 2) Tell students they have the rest of the class to build their robots according to the instructions. Emphasize the importance of using the correct Lego pieces for each step. Rushing and using the wrong ones will lead to robots that do not function properly.
 
 ,,,

@@ -21,7 +21,7 @@
   "dependencies": {
     "gitbook-plugin-highlight": "^2.0.2",
     "gitbook-plugin-prism": "^1.1.0",
-    "gitbook-plugin-tasklist": "^0.5.0",
+    "gitbook-plugin-tasklist": "^0.5.1",
     "gitbook-plugin-toggle-chapters": "0.0.3"
   }
 }
