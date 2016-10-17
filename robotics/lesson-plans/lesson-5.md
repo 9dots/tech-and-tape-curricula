@@ -93,7 +93,7 @@ Target: The ultrasonic sensor measuring that an object is closer than 24 inches.
 8) To repeat a set of actions put them inside of a loop (also inside of the orange tab).
 ,,,
 
-2) Students fill in the first section of their worksheet
+2) Students fill in their worksheet.
 3) Student raise their hands to provide ideas.
 4) Student raise their hands to provide ideas.
 
