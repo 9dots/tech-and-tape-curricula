@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "make teacherbooks; make workbooks; git commit -am \"built workbooks\"; npm version patch;",
+    "books": "make teacherbooks; make workbooks;",
     "postversion": "git push && git push --tags"
   },
   "repository": {

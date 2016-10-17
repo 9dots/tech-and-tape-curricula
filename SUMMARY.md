@@ -10,3 +10,4 @@
   * [move block](robotics/lesson-plans/lesson-2.md)
   * [move block computer](robotics/lesson-plans/lesson-3.md)
   * [design thinking](robotics/lesson-plans/lesson-4.md)
+  * [the cowardly robot](robotics/lesson-plans/lesson-5.md)

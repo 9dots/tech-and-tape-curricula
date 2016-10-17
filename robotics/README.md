@@ -10,6 +10,7 @@ Robotics combines engineering and programming to create machines that are capabl
 * [move block](lesson-plans/lesson-2.md)
 * [move block computer](lesson-plans/lesson-3.md)
 * [design thinking](lesson-plans/lesson-4.md)
+* [the cowardly robot](lesson-plans/lesson-5.md)
 
 ### Download lesson plans
 
