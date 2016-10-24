@@ -13,7 +13,6 @@ splitbooks:
 		do OUTFOLDER="$$COURSE/lessonPDFs"; \
 		mkdir -p $$OUTFOLDER ;	\
 		java -jar SplitPDF.jar -iFile "$$COURSE/$$COURSE.pdf" -oFolder $$OUTFOLDER -bLevel 1 ; \
-		rm -rf "$$COURSE/$$COURSE.pdf" ; \
 		LESSONS="$$OUTFOLDER/*.pdf" ; \
 	done
 
