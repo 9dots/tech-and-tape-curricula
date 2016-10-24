@@ -6,11 +6,13 @@ Robotics combines engineering and programming to create machines that are capabl
 
 ### Lessons
 
-* [build and prep](lesson-plans/lesson-1.md)
-* [move block](lesson-plans/lesson-2.md)
-* [move block computer](lesson-plans/lesson-3.md)
-* [design thinking](lesson-plans/lesson-4.md)
-* [the cowardly robot](lesson-plans/lesson-5.md)
+* [build and prep](../robotics/lesson-plans/lesson-1.html)
+* [move block](../robotics/lesson-plans/lesson-2.html)
+* [move block computer](../robotics/lesson-plans/lesson-3.html)
+* [design thinking](../robotics/lesson-plans/lesson-4.html)
+* [the cowardly robot](../robotics/lesson-plans/lesson-5.html)
+* [back to sumo code](../robotics/lesson-plans/lesson-6.html)
+* [back to sumo build](../robotics/lesson-plans/lesson-7.html)
 
 ### Download lesson plans
 
