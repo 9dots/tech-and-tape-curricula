@@ -1,5 +1,5 @@
 {
-  "gitbook": "3.2.0",
+  "gitbook": "3.2.2",
   "structure": {
       "summary": "SUMMARY.md"
   },
@@ -8,9 +8,5 @@
     "github": {
       "url": "https://github.com/9dots/get-coding-curricula"
     }
-  },
-  "pdf": {
-    "paperSize": "letter",
-    "paperLayout": "landscape"
   }
 }

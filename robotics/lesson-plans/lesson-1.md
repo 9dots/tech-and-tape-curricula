@@ -65,7 +65,7 @@ Students learn about the robotics field and explore cool things robots can do.
 {% length '5 minutes' %}
 {% endlength %}
 
-Students learn specifics about how hte Mindstorm EV3 robots work.
+Students learn specifics about how the Mindstorm EV3 robots work.
 
 **Prep:**
 

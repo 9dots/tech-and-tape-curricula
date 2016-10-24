@@ -11,3 +11,6 @@
   * [move block computer](robotics/lesson-plans/lesson-3.md)
   * [design thinking](robotics/lesson-plans/lesson-4.md)
   * [the cowardly robot](robotics/lesson-plans/lesson-5.md)
+  * [back to sumo code](robotics/lesson-plans/lesson-6.md)
+  * [back to sumo build](robotics/lesson-plans/lesson-7.md)
+  <!-- * [line follow](robotics/lesson-plans/lesson-8.md) -->
