@@ -99,7 +99,7 @@ Students program their sumo bots using the new concepts.
 
 1) Tell students that now it is time for them to work on the code for their sumo bots. The new code should include loops and event handlers.
 2) Remind students that this is an iterative process. This means that students should code, test their code, and then try to improve on it.
-3) Once students have the basic code working, give the students [coding worksheet][worksheet1].
+3) Once students have the basic code working, give the students [coding worksheet](../worksheets/lesson6-worksheet1.pdf).
 ,,,
 
 1) Students work on creating new sumo programs for their robots.

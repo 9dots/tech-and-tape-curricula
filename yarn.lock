@@ -12,7 +12,7 @@ gitbook-plugin-prism@^1.1.0:
   dependencies:
     prismjs "1.5.1"
 
-gitbook-plugin-tasklist@^0.5.1:
+gitbook-plugin-tasklist:
   version "0.5.8"
   resolved "https://registry.yarnpkg.com/gitbook-plugin-tasklist/-/gitbook-plugin-tasklist-0.5.8.tgz#aa1957ddc85b69413781f6e7ee7718f22c9dd985"
   dependencies:

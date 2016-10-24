@@ -61,7 +61,7 @@ Students use the [working on your build worksheet][worksheet1] to guide their th
 
 {% table %}
 
-1) Split students into their groups and distribute the [working on your build worksheet][worksheet1].
+1) Split students into their groups and distribute the [working on your build worksheet](../worksheets/lesson7-worksheet1.pdf).
 2) Tell students do an initial test by participating in a sumo battle. After the test students will fill in the worksheet.
   - In these battles the robots should start facing away from each other.
 3) Explain that each time students build and test they should think about the questions on the handout to plan improvements.

@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "make teacherbooks; make workbooks; git commit -am \"built workbooks\"; npm version patch;",
+    "release": "make teacherbooks; make workbooks; gitbook build . public; firebase deploy; git add .; git commit -am 'new release'; npm version patch;",
     "books": "make teacherbooks; make workbooks;",
     "postversion": "git push && git push --tags"
   },
@@ -22,7 +22,7 @@
   "dependencies": {
     "gitbook-plugin-highlight": "^2.0.2",
     "gitbook-plugin-prism": "^1.1.0",
-    "gitbook-plugin-tasklist": "^0.5.1",
+    "gitbook-plugin-tasklist": "^0.5.8",
     "gitbook-plugin-toggle-chapters": "0.0.3"
   }
 }
