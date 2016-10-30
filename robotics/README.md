@@ -13,6 +13,7 @@ Robotics combines engineering and programming to create machines that are capabl
 * [the cowardly robot](../robotics/lesson-plans/lesson-5.html)
 * [back to sumo code](../robotics/lesson-plans/lesson-6.html)
 * [back to sumo build](../robotics/lesson-plans/lesson-7.html)
+* [line follower](../robotics/lesson-plans/lesson-8.html)
 
 ### Download lesson plans
 
