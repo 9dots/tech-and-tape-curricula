@@ -6,6 +6,8 @@
 
 Students learn about robotics through watching videos and group discussion. For this lesson, stduents build the EV3 educator model using their Lego Mindstorm kits.
 
+##### [Download Lesson](../lessonPDFs/build and prep.pdf)
+
 {% overviewSection title='Objectives', icon='objectives' %}
 {% endoverviewSection %}
 
@@ -25,8 +27,8 @@ Students will be able to:
 {% overviewSection title='Materials', icon='materials' %}
 {% endoverviewSection %}
 
-- Sensors handout
-- EV3 Educator Model Building Instructions
+- [EV3 Educator Model Building Instructions](http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf)
+http://robotsquare.com/wp-content/uploads/2013/10/45544_educator.pdf
 
 {% header title='Introduction to robots', icon='objectives' %}
 {% endheader %}
@@ -35,8 +37,6 @@ Students will be able to:
 {% endlength %}
 
 Students learn about the robotics field and explore cool things robots can do.
-
-**Prep:**
 
 {% table %}
 
@@ -65,27 +65,24 @@ Students learn about the robotics field and explore cool things robots can do.
 {% length '5 minutes' %}
 {% endlength %}
 
-Students learn specifics about how hte Mindstorm EV3 robots work.
+Students learn specifics about how the Mindstorm EV3 robots work.
 
 **Prep:**
 
 {% table %}
-1) Distribute the Mindstorm sensors handout.
-  - Discuss with students what they think the sensor can be used for
-2) Explain the sensors:
-  - Motor - for driving the robot. Also a strong building piece
-  - Touch sensor - for detecting when the robot has touched  an object
-  - Ultrasonic sensor - for measuring distance
-  - Color sensor - for checking colors
-3) Show students the building plans for the EV3 Educator Model. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own designs later in the unit.
-4) Discuss Why is it important to organize Lego pieces properly?
+1) Explain the sensors:
+  - Motor - used for driving the robot. Also a strong building piece.
+  - Touch sensor - used for detecting when the robot has touched an object.
+  - Ultrasonic sensor - used for measuring distance.
+  - Color sensor - used for checking colors.
+2) Show students the building plans for the EV3 Educator Model. Explain that this robot is helpful for learning how to program the robot, and that students will be coming up with their own designs later in the unit.
+3) Discuss Why is it important to organize Lego pieces properly?
   - Future building can be more efficient and more fun if it is not necessary to hunt for every little piece.
 
 ,,,
 
-1) Students fill in the handout with ideas about what each sensor does and how it can be used for Sumo.
-2) Students take notes on their paper to clarify what the sensors are used for.
-4) Students raise their hands to offer answers.
+1) Students take notes on their paper to clarify what the sensors are used for.
+3) Students raise their hands to offer answers.
 
 {% endtable %}
 
@@ -101,7 +98,7 @@ Student build their robots using the LEGO EV3 Educator Model instructions
 
 {% table %}
 
-1) Give students 10 minutes to organize their building materials.
+1) Tell students that the first step is to organize their building materials. Students should use the organizer chart that is on the box cover in their EV3 kits.
 2) Tell students they have the rest of the class to build their robots according to the instructions. Emphasize the importance of using the correct Lego pieces for each step. Rushing and using the wrong ones will lead to robots that do not function properly.
 
 ,,,
