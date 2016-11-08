@@ -20,9 +20,12 @@
   },
   "homepage": "https://github.com/9dots/tech-and-tape-curricula#readme",
   "dependencies": {
+    "gitbook-plugin-9dots-style": "^0.1.4",
     "gitbook-plugin-highlight": "^2.0.2",
+    "gitbook-plugin-markedx": "^0.1.17",
+    "gitbook-plugin-mdx-components": "^0.1.5",
     "gitbook-plugin-prism": "^1.1.0",
     "gitbook-plugin-tasklist": "^0.5.8",
-    "gitbook-plugin-toggle-chapters": "0.0.3"
+    "gitbook-plugin-toggle-chapters": "^0.0.3"
   }
 }
